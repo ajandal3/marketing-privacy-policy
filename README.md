@@ -3,7 +3,7 @@
 Welcome to the Marketing Response Generator extension. This privacy policy outlines how we handle your information when you use our extension. By using the extension, you agree to the terms outlined in this policy.
 2. Information We Collect
 No Personal Information: We do not collect any personally identifiable information (PII) from users.
-Local Storage: Any data stored (such as user preferences) is kept locally within your browser and is not transmitted to any external servers.
+Local Storage: Any data stored (such as user preferences) is kept locally within your browser and is not transmitted to any external servers besides your OPTIONAL gumroad key once you buy a subscription.
 3. Data Usage
 The extension operates entirely within your browser, and no data is sent to external services. We do not track or monitor your usage beyond what is necessary for the extension's functionality.
 4. Data Security
